@@ -1,0 +1,70 @@
+textarea {
+	border: none;
+	color: Black;
+}
+
+.table tr{
+	border-bottom: black solid 2px !important;
+}
+
+.colorDanger{
+	background-color: #f2dede;	
+}
+
+.colorSuccess{
+	background-color: #dff0d8;
+}
+
+.colorYellow{
+	background-color: #fcf8e3;	
+}
+
+#headers{
+	background-color: #46a3fd;
+	color: #A52A2A; 
+}
+
+.width1{
+	width: 40px;
+}
+
+.table tr{
+	border-bottom: black solid 2px !important;
+}
+
+.pageNumber{
+	margin-left: 10px;
+	font-size: 25px;
+	color: green;
+	font-family: Arial;
+}
+
+
+.pagination {
+	margin:0 5% 0 5%;
+	width:90%;
+    font-family: Verdana, Geneva, sans-serif;
+    font-weight: bold;
+    background-color: #CFE4AC;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 14px;
+    clear: both;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+}
+
+.pagination a {
+    padding-right: 4px;
+    padding-left: 4px;
+    color: #060;
+    text-decoration: none;
+}
+
+.pagination span {
+    padding-right: 4px;
+    padding-left: 4px;
+
+}
